@@ -1,7 +1,7 @@
 /*
 Author : NITIN KUMAR 
-MODULE : FIRST PROGRAM OF C
-TOPIC  : C LANGUAGE 
+MODULE : exploring usleep 
+TOPIC  : unistd
 */
 
 #include <stdio.h>
